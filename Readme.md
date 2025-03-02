@@ -1,6 +1,6 @@
 <h1>Sistema de REgistro</h1>
 
--Estado del proyecto: en contruccion
+-Estado del proyecto: en construccion
 
 Para ejecutar el sistema, debes poner 
 
